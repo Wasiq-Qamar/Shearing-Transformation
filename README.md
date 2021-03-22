@@ -11,4 +11,4 @@ python == 3.7.10
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Wasiq-Qamar/Shearing-Transformation/main?filepath=Shearing_Transformation.ipynb)
 
-https://colab.research.google.com/drive/14lxMnsQNrmAu_fKfn0gpYiBYR2i2jRBF
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14lxMnsQNrmAu_fKfn0gpYiBYR2i2jRBF)
